@@ -29,7 +29,7 @@ LG·삼성 가전 60개 모델의 사용설명서를 검색해서 답하는 챗�
 
 개발에 들어가기 전에 요구사항 정의서, 기능정의서, 화면설계서를 Figma에 정리했습니다.
 
-[![Figma 기획 산출물 원본 보기](https://img.shields.io/badge/Figma-%EA%B8%B0%ED%9A%8D%20%EC%82%B0%EC%B6%9C%EB%AC%BC%20%EC%9B%90%EB%B3%B8%20%EB%B3%B4%EA%B8%B0-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/wBDis5314lBKKFsqF4G3NX/%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88-RAG-%EA%B8%B0%ED%9A%8D?node-id=21-11075)
+<a href="https://www.figma.com/design/wBDis5314lBKKFsqF4G3NX/%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88-RAG-%EA%B8%B0%ED%9A%8D?node-id=21-11075"><img src="images/btn-figma-plan.png" alt="Figma 기획 산출물 원본 보기" width="257"></a>
 
 | 요구사항 정의서 | 화면설계서 |
 |---|---|
@@ -40,7 +40,7 @@ LG·삼성 가전 60개 모델의 사용설명서를 검색해서 답하는 챗�
 
 ## 3. 시스템 구성 · 질문 처리 흐름 · DB 설계 (내 담당)
 
-[![Figma 로직 설계 원본 보기](https://img.shields.io/badge/Figma-%EB%A1%9C%EC%A7%81%20%EC%84%A4%EA%B3%84%20%EC%9B%90%EB%B3%B8%20%EB%B3%B4%EA%B8%B0-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/wBDis5314lBKKFsqF4G3NX/%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88-RAG-%EA%B8%B0%ED%9A%8D?node-id=11-790)
+<a href="https://www.figma.com/design/wBDis5314lBKKFsqF4G3NX/%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88-RAG-%EA%B8%B0%ED%9A%8D?node-id=11-790"><img src="images/btn-figma-logic.png" alt="Figma 로직 설계 원본 보기" width="244"></a>
 
 에러코드나 "이 모델에 그 기능 있나요?"처럼 **답이 정해진 질문은 검색 없이 DB에서 바로** 답하도록 설계했습니다.
 
